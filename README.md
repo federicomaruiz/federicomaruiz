@@ -1,6 +1,7 @@
 ### Hi there Federico Ruiz👋
 
 <img width="50%" align="right" alt="Federico's github stats" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif" />
+
 🚀 Welcome to my GitHub profile!
 
 🌱 I'm currently exploring the realms of code and creativity.
