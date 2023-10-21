@@ -1,7 +1,6 @@
 ### Hi there Federico Ruiz👋
 
-<div class="tenor-gif-embed" data-postid="26271723" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/wearelegend-gif-26271723">Wearelegend GIF</a>from <a href="https://tenor.com/search/wearelegend-gifs">Wearelegend GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
- 
+<img width="50%" align="right" alt="Federico's github stats" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif" />
 🚀 Welcome to my GitHub profile!
 
 🌱 I'm currently exploring the realms of code and creativity.
