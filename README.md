@@ -26,6 +26,7 @@
 ![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=FF0000)&nbsp;&nbsp;&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%2300f.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;&nbsp;
+<br/><br/>
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/postgreSQL-skyblue.svg?style=for-the-badge&logo=postgreSQL&logoColor=black)&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;
