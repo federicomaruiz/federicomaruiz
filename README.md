@@ -1,5 +1,7 @@
 ### Hi there Federico Ruiz👋
 
+ <img width="50%" align="right" alt="Federico's github stats" src="https://tenor.com/es/view/wearelegend-gif-26271723" />
+ 
 🚀 Welcome to my GitHub profile!
 
 🌱 I'm currently exploring the realms of code and creativity.
