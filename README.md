@@ -16,7 +16,7 @@
 
 🌍 Exploring the digital world, one line of code at a time.
 
-### 🔭Languages : <br/><br/>
+### 🔭 Languages  
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;&nbsp;
