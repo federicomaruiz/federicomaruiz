@@ -6,8 +6,6 @@
 
 🌱 I'm currently exploring the realms of code and creativity.
 
-👯 I'm always open to collaborate on exciting projects.
-
 💬 Ask me about my journey into the world of programming and tech.
 
 📫 How to reach me: federicomaruiz@gmail.com
