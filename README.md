@@ -1,4 +1,4 @@
-### Hi there Federico Ruiz👋
+### Hi there Federico Ruiz 👋
 
 <img width="50%" align="right" alt="Federico's github stats" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif" />
 
