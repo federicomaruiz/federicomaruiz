@@ -4,10 +4,6 @@
 
 🚀 Welcome to my GitHub profile!
 
-🌱 I'm currently exploring the realms of code and creativity.
-
-💬 Ask me about my journey into the world of programming and tech.
-
 📫 How to reach me: federicomaruiz@gmail.com
 
 ⚡ Fun fact: I love to play sports
