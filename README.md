@@ -39,16 +39,4 @@
 <!--
 **federicomaruiz/federicomaruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### 📂 Mis Proyectos
-
-| Proyecto | Descripción | Imagen | Enlace |
-|----------|-------------|--------|--------|
-| **Proyecto 1** | Este proyecto es una app en Kotlin que... | ![Proyecto 1](https://via.placeholder.com/150) | [Ver Repositorio](https://github.com/federicomaruiz/proyecto1) |
-| **Proyecto 2** | Una API desarrollada en Java que... | ![Proyecto 2](https://via.placeholder.com/150) | [Ver Repositorio](https://github.com/federicomaruiz/proyecto2) |
-| **Proyecto 3** | Un frontend en Angular que... | ![Proyecto 3](https://via.placeholder.com/150) | [Ver Repositorio](https://github.com/federicomaruiz/proyecto3) |
-| **Proyecto 4** | Base de datos en MongoDB con... | ![Proyecto 4](https://via.placeholder.com/150) | [Ver Repositorio](https://github.com/federicomaruiz/proyecto4) |
-
-### Nota
-Haz clic sobre las imágenes o los enlaces para explorar más sobre cada proyecto.
-
 -->
