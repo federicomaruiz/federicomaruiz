@@ -41,22 +41,12 @@
 
 <div style="border: 1px solid #ddd; padding: 10px; max-width: 400px;">
 
-### Terraform Infraestructura como código
-
-<img src="https://decidesoluciones.es/wp-content/uploads/2022/01/Terraform-3000x1500.png" alt="Terraform" width="50%" style="border-radius: 5px;"/>
-
-<a href="https://github.com/federicomaruiz/Terraform-Infraestructura.git">
-  <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github&style=flat-square" alt="GitHub Repo">
-</a>
-
-</div>
-
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">Terraform Infraestructura como código</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/federicomaruiz/Terraform-Infraestructura.git" target="_blank"><img src="https://decidesoluciones.es/wp-content/uploads/2022/01/Terraform-3000x1500.png" width="400" alt="Lanzar servidores con terraform"></a>
 <p>
 <a href="https://github.com/federicomaruiz/Terraform-Infraestructura.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
