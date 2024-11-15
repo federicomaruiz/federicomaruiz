@@ -39,15 +39,18 @@
 
 <div align="center" style="border: 2px solid #ddd; padding: 20px; max-width: 600px; margin: auto;">
 
-### Terraform Infraestructura como Código
+<div style="border: 1px solid #ddd; padding: 10px; max-width: 400px;">
 
-<img src="https://decidesoluciones.es/wp-content/uploads/2022/01/Terraform-1500x750.png" alt="Terraform" width="100%" style="border-radius: 10px;"/>
+### Terraform Infraestructura como código
+
+<img src="https://decidesoluciones.es/wp-content/uploads/2022/01/Terraform-3000x1500.png" alt="Terraform" width="80%" style="border-radius: 5px;"/>
 
 <a href="https://github.com/federicomaruiz/Terraform-Infraestructura.git">
-  <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github&style=flat-square" alt="GitHub Repo" style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github&style=flat-square" alt="GitHub Repo">
 </a>
 
 </div>
+
 
 <!--
 **federicomaruiz/federicomaruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
