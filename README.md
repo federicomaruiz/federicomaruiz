@@ -63,7 +63,7 @@
                <br>
 <h3 align="center">Guardian Alert</h3>
 <div align="center">                                       
-<a href="https://github.com/federicomaruiz/GuardianAlert" target="_blank"><img src="https://i.ibb.co/3sX085V/Screenshot-2024-11-15-at-13-58-35.png" width="400" heigth="400" alt="App de alertas"></a>
+<a href="https://github.com/federicomaruiz/GuardianAlert" target="_blank"><img src=""https://i.ibb.co/dLSktcn/Screenshot-2024-11-15-at-14-27-24.png"" width="400" heigth="400" alt="App de alertas"></a>
 <br>
 <p>
 <a href="https://github.com/federicomaruiz/GuardianAlert" target="_blank">
