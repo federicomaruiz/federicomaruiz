@@ -43,7 +43,7 @@
 
 ### Terraform Infraestructura como código
 
-<img src="https://decidesoluciones.es/wp-content/uploads/2022/01/Terraform-3000x1500.png" alt="Terraform" width="80%" style="border-radius: 5px;"/>
+<img src="https://decidesoluciones.es/wp-content/uploads/2022/01/Terraform-3000x1500.png" alt="Terraform" width="50%" style="border-radius: 5px;"/>
 
 <a href="https://github.com/federicomaruiz/Terraform-Infraestructura.git">
   <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github&style=flat-square" alt="GitHub Repo">
