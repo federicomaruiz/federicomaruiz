@@ -41,6 +41,8 @@
 
 <div style="border: 1px solid #ddd; padding: 10px; max-width: 400px;">
 
+###  Mis proyectos  
+
 <table>
 <tr>
 <td width="50%">
