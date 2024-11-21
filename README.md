@@ -41,20 +41,20 @@
 
 <div style="border: 1px solid #ddd; padding: 10px; max-width: 400px;">
 
-###  Mis proyectos  
+###  My proyects 
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Terraform Infraestructura como código</h3>
+<h3 align="center">Terraform Infrastructure as Code</h3>
 <div align="center">
-<a href="https://github.com/federicomaruiz/Terraform-Infraestructura.git" target="_blank"><img src="https://decidesoluciones.es/wp-content/uploads/2022/01/Terraform-3000x1500.png" width="400" alt="Lanzar servidores con terraform"></a>
+<a href="https://github.com/federicomaruiz/Terraform-Infraestructura.git" target="_blank"><img src="https://decidesoluciones.es/wp-content/uploads/2022/01/Terraform-3000x1500.png" width="400" alt="Launch servers with Terraform"></a>
 <p>
 <a href="https://github.com/federicomaruiz/Terraform-Infraestructura.git" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Crear, configurar y gestionar 1 ó 1000 servidores en AWS con Terraform.</p>
+<p>Create, configure, and manage 1 or 1000 servers on AWS with Terraform.</p>
 </div>
                                                                                       
 </td>
@@ -63,18 +63,19 @@
                <br>
 <h3 align="center">Guardian Alert</h3>
 <div align="center">                                       
-<a href="https://github.com/federicomaruiz/GuardianAlert" target="_blank"><img src="https://i.ibb.co/Z8M8FBq/Fede-Jet-Pack-Compose.webp" width="400" heigth="200" alt="App de alertas"></a>
+<a href="https://github.com/federicomaruiz/GuardianAlert" target="_blank"><img src="https://i.ibb.co/Z8M8FBq/Fede-Jet-Pack-Compose.webp" width="400" heigth="200" alt="Alert app"></a>
 <br>
 <p>
 <a href="https://github.com/federicomaruiz/GuardianAlert" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Aplicación de seguridad, tecnologia empleada JetpackCompose</p>
+</p>Security application, technology used: JetpackCompose</p>
 </div>                                                             
 </table>                                                                                 
 </div>
 <br>
+
 <!--
 <table>
 <tr>
