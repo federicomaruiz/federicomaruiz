@@ -63,7 +63,7 @@
                <br>
 <h3 align="center">Guardian Alert</h3>
 <div align="center">                                       
-<a href="https://github.com/federicomaruiz/GuardianAlert" target="_blank"><img src="https://i.ibb.co/Z8M8FBq/Fede-Jet-Pack-Compose.webp" width="400" heigth="300" alt="App de alertas"></a>
+<a href="https://github.com/federicomaruiz/GuardianAlert" target="_blank"><img src="https://i.ibb.co/Z8M8FBq/Fede-Jet-Pack-Compose.webp" width="400" heigth="200" alt="App de alertas"></a>
 <br>
 <p>
 <a href="https://github.com/federicomaruiz/GuardianAlert" target="_blank">
