@@ -54,7 +54,7 @@
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Create, configure, and manage 1 or 1000 servers on AWS with Terraform.</p>
+<p>Automates cloud infrastructure provisioning with Terraform. Deploys, configures, and scales servers on AWS efficiently, emphasizing Infrastructure as Code (IaC) practices</p>
 </div>
                                                                                       
 </td>
@@ -70,7 +70,7 @@
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Security application, technology used: JetpackCompose</p>
+</p>Security app for emergency alerts. Developed with Jetpack Compose, featuring APIs, geolocation and authentication.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
